@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me:  掘金：[大海我来了](https://juejin.cn/user/3685218705745230) / 公众号：大海我来了 / Email: brandon.c.cheng@gmail.com
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=username&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=username&layout=compact&hide_border=true&&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bulandent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bulandent&show_icons=true&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
