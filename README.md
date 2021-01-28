@@ -4,7 +4,9 @@
 <a href="https://juejin.cn/user/3685218705745230/posts" target="_blank"><img src="https://bubuzou.oss-cn-shenzhen.aliyuncs.com/blog/202101/juejin_01.png"></a>
 <a href="https://mmbiz.qpic.cn/mmbiz_png/uBN8JVFZtDRmBhTVNlc5mCkASdMC37PK4uBUxibfbkIqD3RxR3ykibmmt3UEvaib13ynD1wDicq6ZzdY6pOOYRYO7Q/0?wx_fmt=png" target="_blank"><img src="https://bubuzou.oss-cn-shenzhen.aliyuncs.com/blog/202101/gzh_01.png"></a>
 
-I am a web development. I love programming, reading, writing and sharing.
+I am a web development. I love programming, reading, writing and sharing. Here is [my blog](https://bubuzou.com)
+
+[![](https://github.com/Gapur/Gapur/raw/master/coding.gif?raw=true)](https://github.com/Gapur/Gapur/raw/master/coding.gif?raw=true)
 
 Here are some ideas to get you started:
 
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 
 **📈 This Week I Spent My Time On:**
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=username&layout=compact&hide_border=true&&count_private=true&include_all_commits=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatimebulandent&layout=compact&hide_border=true&&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **📊 My GitHub Stats:**
 
