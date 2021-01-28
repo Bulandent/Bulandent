@@ -6,14 +6,14 @@
 
 I am a web development. I love programming, reading, writing and sharing. Here is [my blog](https://bubuzou.com)
 
-[![](https://github.com/Gapur/Gapur/raw/master/coding.gif?raw=true)](https://github.com/Gapur/Gapur/raw/master/coding.gif?raw=true)
+<img src="https://github.com/Gapur/Gapur/raw/master/coding.gif?raw=true" align="right">
 
 Here are some ideas to get you started:
 
 - 🤔 I’m currently working on something cool.
 - 🌱 I’m currently learning Data Structures and Algorithms on leetcode.
 - 💬 Ask me about ...
-- 📫 How to reach me:  掘金：[大海我来了](https://juejin.cn/user/3685218705745230) / 公众号：大海我来了 / Email: brandon.c.cheng@gmail.com
+- 📫 How to reach me: Email: brandon.c.cheng@gmail.com
 
 **📈 This Week I Spent My Time On:**
 
