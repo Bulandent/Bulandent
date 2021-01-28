@@ -6,7 +6,7 @@
 
 I am a web development. I love programming, reading, writing and sharing. Here is [my blog](https://bubuzou.com)
 
-<img src="https://github.com/Gapur/Gapur/raw/master/coding.gif?raw=true" align="right">
+<img src="https://github.com/Gapur/Gapur/raw/master/coding.gif?raw=true" align="right" height="320px">
 
 Here are some ideas to get you started:
 
