@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m currently working on something cool.
 - 🌱 I’m currently learning Data Structures and Algorithms on leetcode.
 - 💬 Ask me about ...
-- 📫 How to reach me: Email: brandon.c.cheng@gmail.com
+- 📫 How to reach me: Email: 1326895569@qq.com
 
 **📈 This Week I Spent My Time On:**
 
