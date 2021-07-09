@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 **📈 This Week I Spent My Time On:**
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bulandent&layout=compat&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Bulandent&layout=compat&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 **📊 My GitHub Stats:**
 
