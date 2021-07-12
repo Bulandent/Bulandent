@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **📈 This Week I Spent My Time On:**
 
-[![bulandent's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bulandent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![bulandent's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bulandent&layout=compact&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
 
 **📊 My GitHub Stats:**
 
